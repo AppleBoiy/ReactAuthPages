@@ -1,8 +1,8 @@
 # My React Application
 
-My React Application is a web application built with React that provides various pages for user authentication and account management.
-
 <img src="assets/screenshot.png">
+
+My React Application is a web application built with React that provides various pages for user authentication and account management.
 
 ## Pages
 
