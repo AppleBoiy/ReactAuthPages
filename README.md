@@ -16,6 +16,23 @@ My React Application is a web application built with React that provides various
 
 ## Installation
 
+### Using Docker Compose
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run the following command to start the application using Docker Compose:
+
+   ```shell
+   docker compose up -d --build
+   ```
+
+This command will build the Docker image and start the container. The application will be accessible at http://localhost:3000 in your browser.
+
+4. To stop the application, press <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal where Docker Compose is running, and then run:
+
+   ```shell
+   docker compose down
+   ```
 ### Using Dockerfile
 
 1. Clone this repository to your local machine.
